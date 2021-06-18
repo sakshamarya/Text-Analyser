@@ -1,0 +1,19 @@
+.input_field {
+  margin: 50px;
+  border: rgb(0, 0, 0) solid;
+}
+
+.output {
+  margin: 50px;
+  border: rgb(0, 0, 0) solid;
+  padding: 10px;
+}
+
+.h3text {
+  padding: 10px;
+  text-align: center;
+}
+
+.submitBtn {
+  margin: 5px;
+}
